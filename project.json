@@ -1,0 +1,10 @@
+{
+    "name": "LEDout",
+    "version": "1.0.0",
+    "manifest_version": 1,
+    "project_type": "application",
+    "executable_type": "scratch",
+    "executable": "LEDout.xml",
+    "author": "sharonmercedes",
+    "minimum_firmware_version": 42
+}
